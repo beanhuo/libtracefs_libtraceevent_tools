@@ -1,1 +1,1 @@
-# Exampels of libtracefs, libtraceevent
+# Examples of libtracefs, libtraceevent
